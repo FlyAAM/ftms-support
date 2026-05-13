@@ -54,7 +54,7 @@ The app does not sell personal data.
 ## Support
 For support or questions contact:
 
-your@email.com
+tollin@yandex.ru
 
 ## Privacy Policy
 See:
