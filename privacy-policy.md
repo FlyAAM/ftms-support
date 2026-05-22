@@ -4,7 +4,7 @@ Last updated: 2026
 
 ##Overview
 
-FTMS Trainer & Online Racing respects your privacy.
+r.crew racing respects your privacy.
 
 This application is designed to work with Bluetooth FTMS-compatible fitness equipment and online multiplayer races.
 
