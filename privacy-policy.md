@@ -73,4 +73,4 @@ Temporary race data is automatically removed after the retention period.
 
 For privacy questions or support:
 
-tollin@yandex.ru
+a.an.moscalenko+rcrew@gmail.com
