@@ -1,4 +1,4 @@
-# r.crew 
+# r.crew racing
 Android application for FTMS-compatible fitness machines with online multiplayer racing support (ble and web).
 
 ## Features
