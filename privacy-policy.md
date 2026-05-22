@@ -4,7 +4,7 @@ Last updated: 2026
 
 ##Overview
 
-r.crew racing respects your privacy.
+r.crew respects your privacy.
 
 This application is designed to work with Bluetooth FTMS-compatible fitness equipment and online multiplayer races.
 
