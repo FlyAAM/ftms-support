@@ -1,4 +1,4 @@
-# r.crew racing
+# **SOULFAM RACE**
 Android application for FTMS-compatible fitness machines with online multiplayer racing support (ble and web).
 
 ## Features
@@ -54,7 +54,7 @@ The app does not sell personal data.
 ## Support
 For support or questions contact:
 
-a.an.moskalenko+rcrew@gmail.com
+**a.an.moskalenko+rcrew@gmail.com**
 
 ## Privacy Policy
 See:
