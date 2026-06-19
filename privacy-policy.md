@@ -2,7 +2,7 @@
 
 **Last updated: June 19, 2026**
 
-**SOULFAM RACE** is developed and operated by **Anatoliy Moskalenko (Анатолий Москаленко)** (“the developer”).
+**SOULFAM RACE** is developed and operated by **Anatoliy Moskalenko**.
 
 This Privacy Policy explains what information the SOULFAM RACE Android application collects or processes, why it is used, where it may be stored, and what choices users have.
 
