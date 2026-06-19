@@ -5,7 +5,7 @@ Last updated: 2026
 ##Overview
 
 
-r.crew racing respects your privacy.
+soulfam race respects your privacy.
 
 This application is designed to work with Bluetooth FTMS-compatible fitness equipment and online multiplayer races.
 
@@ -74,4 +74,4 @@ Temporary race data is automatically removed after the retention period.
 
 For privacy questions or support:
 
-a.an.moskalenko+rcrew@gmail.com
+a.an.moskalenko+soulfamrace@gmail.com
