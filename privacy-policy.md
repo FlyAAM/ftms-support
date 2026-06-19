@@ -189,7 +189,7 @@ This Privacy Policy may be updated when application functionality, service provi
 
 ## 11. Contact
 
-Developer: **Anatolii Moskalenko (Анатолий Москаленко)**
+Developer: **Anatolii Moskalenko**
 
 Application: **SOULFAM RACE**
 
