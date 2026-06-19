@@ -47,7 +47,7 @@ To use online races, a user creates an online racing profile. The profile may co
 - display name;
 - country or “International” designation;
 - public Online ID;
-- private list of favorite users and user-defined aliases;
+- private list of favorite users and user-defined aliases stored locally on the device;
 - Firebase anonymous authentication identifier;
 - profile creation, update, and last activity timestamps.
 
@@ -189,10 +189,9 @@ This Privacy Policy may be updated when application functionality, service provi
 
 ## 11. Contact
 
-Developer: **Anatolii Moskalenko**
+Developer: **Anatoliy Moskalenko**
 
 Application: **SOULFAM RACE**
 
 Privacy and support email:  
 **[a.an.moskalenko+soulfamrace@gmail.com](mailto:a.an.moskalenko+soulfamrace@gmail.com)**
-
