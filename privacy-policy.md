@@ -5,7 +5,7 @@ Last updated: 2026
 ##Overview
 
 
-soulfam race respects your privacy.
+**soulfam race** respects your privacy.
 
 This application is designed to work with Bluetooth FTMS-compatible fitness equipment and online multiplayer races.
 
