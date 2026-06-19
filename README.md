@@ -85,16 +85,10 @@ SOULFAM RACE does not sell personal data and does not use personal data for targ
 
 Read the complete [Privacy Policy](privacy-policy.md) for details about Bluetooth data, workout metrics, online profiles, Firebase services, retention, and deletion requests.
 
-## Data deletion
+## Support and data deletion
 
-To request deletion of an online profile and associated online data, email:
+For support, privacy questions, or deletion of an online profile and associated data, email:
 
-**[a.an.moskalenko+soulfamrace@gmail.com](mailto:a.an.moskalenko+soulfamrace@gmail.com?subject=SOULFAM%20RACE%20data%20deletion%20request)**
+**[a.an.moskalenko+soulfamrace@gmail.com](mailto:a.an.moskalenko+soulfamrace@gmail.com?subject=SOULFAM%20RACE%20request)**
 
-Include the public Online ID or application ID displayed in the application. Do not send passwords, payment information, or identity documents.
-
-## Support
-
-For support and questions:
-
-**[a.an.moskalenko+soulfamrace@gmail.com](mailto:a.an.moskalenko+soulfamrace@gmail.com?subject=SOULFAM%20RACE%20support)**
+For a data deletion request, include the public Online ID or application ID displayed in the application. Do not send passwords, payment information, or identity documents.
